@@ -21,7 +21,7 @@
 %% $Id: elsarticle-template-1-num.tex 149 2009-10-08 05:01:15Z rishi $
 %% $URL: http://lenova.river-valley.com/svn/elsbst/trunk/elsarticle-template-1-num.tex $
 %%
-\documentclass[final,3p,times,twocolumn]{elsarticle}
+\documentclass[final,5p,times,twocolumn]{elsarticle}
 
 %% Use the option review to obtain double line spacing
 %% \documentclass[preprint,review,12pt]{elsarticle}
@@ -113,7 +113,7 @@
 \ead{i.zaytsev@students.uu.nl}
 \author[UU]{Slinger Jansen}
 \ead{s.jansen@cs.uu.nl}
-\cortext[cor1]{Corresponding author. Address: Department of Information and Computing Sciences, University of Utrecht, P.O. Box 80.089, 3508TB Utrecht, The Netherlands. Tel.: +31 (030)2539896.}
+\cortext[cor1]{Corresponding author. Address: Department of Information and Computing Sciences, University of Utrecht, P.O. Box 80.089, 3508TB Utrecht, The Netherlands. Tel.: +31 (0)30 253 98 96.}
 \address[UU]{Department of Information and Computer Sciences, Utrecht University, Utrecht, The Netherlands}
 
 
@@ -143,11 +143,23 @@ open source \sep vitality analysis \sep health analysis \sep software ecosystem
 \section{Introduction}
 \label{intr_section}
 
+Contemporary, large software products are frequently developed by an entire ecosystem of organizations and open source communities (OSCs) \cite{Jansen2009}. Such software products base their code on deliverables produced in so called software ecosystems, which span beyond the influence of a single organization \cite{Bosch2009}. Hereby, open source communities often provide innovative, user demand driven software, free of charge \cite{von2001learning}. Implementing open source components into commercial applications has many advantages for software developers, as they can reduce development costs, improve an application’s performance and add functionality without the need to invest into according in-house capabilities \cite{Bessen2001}. Development resources, freed up by open source integration, can be invested in strengthening a software product’s core capabilities and improving its market competitiveness \cite{Hawkins2004}.
+
+For developing and maintaining a software product that depends on open source code, product managers must be able to assess the health of the communities their products depend on. A lack of understanding of a software component's vitality bears not quantifiable risks for the software firm, as well as for customers relying on the product in question. However, such an assessment can be particularly difficult, as open source communities are loosely structured and use collaboration methods that differ greatly from those in commercial software development \cite{Crowston2005}. Additionally, an open source communities’ expertise is not centrally structured, less tangible than with commercial products, and bears no obligations for formal technical support.
+
+Currently, little work on the topic of open source vitality exists and no research known to the authors explicitly focuses on the needs of software product managers, evaluating open source for commercial applications. Wahyudin et al. \cite{Wahyudin2007} directly addresses open source community health. Based on an evaluation of scientific literature on OS communities and software project monitoring, the authors constructed a software community interaction model, focusing on the three core quality related perspectives of OSCs: The developer community, the user community and the software product. Consequently, the authors constructed two core health indicators that aggregated previously introduced performance variables: Developer contribution and bug service delay. Weiss \cite{Weiss2005} takes a different approach to assessing OSC popularity and proposes to look at web search engine results. Based on the assumption that a successful OS application will enjoy broad distribution, he proposes four measures of assessing a communities' popularity, based on the number of matching search results. The work of Izquierdo-Cortazar et al.  \cite{Izquierdo-Cortazar2010} presents some of the more recent OSC vitality related publications. The authors statistically analyze OSC evolvability and robustness of 1400 FLOSS communities. Hereby, the utilized approach divided the main research question into two sub-questions dealing with: Size and regeneration, as well as interactivity and workload adequacy. Opposite to the efforts of Izquierdo-Cortazar et al., Samoladas et al. \cite{Samoladas2010} evaluate probabilities for FLOSS survival. By mining an open source database, funded by the European Union (FLOSSMetrics), the authors review time series data and attempt to predict the continuation of OS projects. Among all reviewed research , one of the most comprehensive approaches to general OSC vitality is the work of Subramaniam et al. \cite{Subramaniam2009}. The paper addressed OSC project success by means of a longitudinal data analysis of OS projects on SourceForge over a time period of 5 years. Based on a literature analysis, the authors constructed a model of open source success measures that was divided in developer interest in the project, user interest in the project and project activity. In addition, the model evaluated interrelations between success factors and introduced a segmentation into time dependent and time independent variables, such as e.g. developer interest or operating system language.
+
+In order to fill the research gap, this article introduces a modular method for OSC vitality analysis, specifically designed to be adjustable to situational requirements of varying communities and project characteristics. The method is built around a pool of method fragments, each aimed at validated OSC vitality indicators and labelled with suitable selection rational. Furthermore, a case study at a large software company with extensive open source expertise was performed. The gained industry insights were used to expand the understanding of OSC vitality indicators, as well as for validation of the presented method.
+
+The following section introduces the utilized research method, covering case study details, as well as a systematic literature review on the topic of OSC and open source related software ecosystem health. Lorem ipsum.....
 \section{Reserach Method}
 \label{reserach_method_section}
 
 \section{The OSC Health Analysis Method}
 \label{OSC_method_section}
+
+\section{Discussion and Conclusion}
+\label{discussion_conclusion_section}
 
 %% The Appendices part is started with the command \appendix;
 %% appendix sections are then done as normal sections

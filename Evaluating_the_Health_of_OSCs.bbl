@@ -1,0 +1,104 @@
+\begin{thebibliography}{11}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Jansen et~al.(2009)Jansen, Finkelstein, and Brinkkemper}]{Jansen2009}
+\bibinfo{author}{S.~Jansen}, \bibinfo{author}{A.~Finkelstein},
+  \bibinfo{author}{S.~Brinkkemper},
+\newblock \bibinfo{title}{{A sense of community: A research agenda for software
+  ecosystems}},
+\newblock \bibinfo{journal}{31st International Conference on Software
+  Engineering (ICSE 2009)}  (\bibinfo{year}{2009}) \bibinfo{pages}{2--5}.
+%Type = Article
+\bibitem[{Bosch(2009)}]{Bosch2009}
+\bibinfo{author}{J.~Bosch},
+\newblock \bibinfo{title}{{From software product lines to software
+  ecosystems}},
+\newblock \bibinfo{journal}{SPLC '09 Proceedings of the 13th International
+  Software Product Line Conference}  (\bibinfo{year}{2009})
+  \bibinfo{pages}{1--10}.
+%Type = Article
+\bibitem[{{Von Hippel}(2001)}]{von2001learning}
+\bibinfo{author}{E.~{Von Hippel}},
+\newblock \bibinfo{title}{{Learning from open-source software}},
+\newblock \bibinfo{journal}{MIT Sloan management review} \bibinfo{volume}{42}
+  (\bibinfo{year}{2001}) \bibinfo{pages}{82--86.}
+%Type = Article
+\bibitem[{Bessen(2001)}]{Bessen2001}
+\bibinfo{author}{J.~E. Bessen},
+\newblock \bibinfo{title}{{Open Source Software: Free Provision Of Complex
+  Public Goods}},
+\newblock \bibinfo{journal}{Social Science Research Network}
+  (\bibinfo{year}{2001}) \bibinfo{pages}{57--81}.
+%Type = Article
+\bibitem[{Hawkins(2004)}]{Hawkins2004}
+\bibinfo{author}{R.~E. Hawkins},
+\newblock \bibinfo{title}{{The economics of open source software for a
+  competitive firm}},
+\newblock \bibinfo{journal}{NETNOMICS: Economic Research and Electronic
+  Networking} \bibinfo{volume}{6} (\bibinfo{year}{2004})
+  \bibinfo{pages}{103--117}.
+%Type = Article
+\bibitem[{Crowston and Howison(2005)}]{Crowston2005}
+\bibinfo{author}{K.~Crowston}, \bibinfo{author}{J.~Howison},
+\newblock \bibinfo{title}{{The social structure of free and open source
+  software development}},
+\newblock \bibinfo{journal}{First Monday} \bibinfo{volume}{10}
+  (\bibinfo{year}{2005}) \bibinfo{pages}{2--7}.
+%Type = Article
+\bibitem[{Wahyudin et~al.(2007)Wahyudin, Mustofa, Schatten, Biffl, and
+  Tjoa}]{Wahyudin2007}
+\bibinfo{author}{D.~Wahyudin}, \bibinfo{author}{K.~Mustofa},
+  \bibinfo{author}{A.~Schatten}, \bibinfo{author}{S.~Biffl},
+  \bibinfo{author}{A.~M. Tjoa},
+\newblock \bibinfo{title}{{Monitoring the ``health'' status of open source
+  web-engineering projects}},
+\newblock \bibinfo{journal}{International Journal of Web Information Systems -
+  IJWIS} \bibinfo{volume}{3} (\bibinfo{year}{2007}) \bibinfo{pages}{116--139}.
+%Type = Article
+\bibitem[{Weiss(2005)}]{Weiss2005}
+\bibinfo{author}{D.~Weiss},
+\newblock \bibinfo{title}{{Measuring success of open source projects using web
+  search engines}},
+\newblock \bibinfo{journal}{Technology}  (\bibinfo{year}{2005})
+  \bibinfo{pages}{93--99 TS -- BeitraginSammelband}.
+%Type = Article
+\bibitem[{Izquierdo-Cortazar et~al.(2010)Izquierdo-Cortazar,
+  Gonz\'{a}lez-Barahona, Robles, Deprez, and Auvray}]{Izquierdo-Cortazar2010}
+\bibinfo{author}{D.~Izquierdo-Cortazar},
+  \bibinfo{author}{J.~Gonz\'{a}lez-Barahona}, \bibinfo{author}{G.~Robles},
+  \bibinfo{author}{J.~Deprez}, \bibinfo{author}{V.~Auvray},
+\newblock \bibinfo{title}{{FLOSS Communities: Analyzing Evolvability and
+  Robustness from an Industrial Perspective}},
+\newblock \bibinfo{journal}{Open Source Software New Horizons}
+  \bibinfo{volume}{319} (\bibinfo{year}{2010}) \bibinfo{pages}{336--341}.
+%Type = Article
+\bibitem[{Samoladas et~al.(2010)Samoladas, Angelis, and
+  Stamelos}]{Samoladas2010}
+\bibinfo{author}{I.~Samoladas}, \bibinfo{author}{L.~Angelis},
+  \bibinfo{author}{I.~Stamelos},
+\newblock \bibinfo{title}{{Survival analysis on the duration of open source
+  projects}},
+\newblock \bibinfo{journal}{Information and Software Technology}
+  \bibinfo{volume}{52} (\bibinfo{year}{2010}) \bibinfo{pages}{902--922}.
+%Type = Article
+\bibitem[{Subramaniam et~al.(2009)Subramaniam, Sen, and
+  Nelson}]{Subramaniam2009}
+\bibinfo{author}{C.~Subramaniam}, \bibinfo{author}{R.~Sen},
+  \bibinfo{author}{M.~L. Nelson},
+\newblock \bibinfo{title}{{Determinants of open source software project
+  success: A longitudinal study}},
+\newblock \bibinfo{journal}{Decision Support Systems} \bibinfo{volume}{46}
+  (\bibinfo{year}{2009}) \bibinfo{pages}{576--585}.
+
+\end{thebibliography}

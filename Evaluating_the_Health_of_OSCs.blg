@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Evaluating_the_Health_of_OSCs.aux
+The style file: model1-num-names.bst
+Database file #1: sources.bib.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 11 entries,
+            2910 wiz_defined-function locations,
+            730 strings with 8051 characters,
+and the built_in function-call counts, 6650 in all, are:
+= -- 541
+> -- 236
+< -- 6
++ -- 89
+- -- 78
+* -- 793
+:= -- 1004
+add.period$ -- 11
+call.type$ -- 11
+change.case$ -- 81
+chr.to.int$ -- 11
+cite$ -- 11
+duplicate$ -- 419
+empty$ -- 450
+format.name$ -- 103
+if$ -- 1197
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 99
+newline$ -- 70
+num.names$ -- 44
+pop$ -- 86
+preamble$ -- 1
+purify$ -- 81
+quote$ -- 0
+skip$ -- 117
+stack$ -- 0
+substring$ -- 438
+swap$ -- 359
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 99
+warning$ -- 0
+while$ -- 56
+width$ -- 0
+write$ -- 157

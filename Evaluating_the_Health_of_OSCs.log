@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.3.18)  12 JUN 2013 19:35
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.3.18)  13 JUN 2013 16:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -571,22 +571,22 @@ e
 * hratio: 1:1
 * vratio: 1:1
 * modes: 
-* h-part:(L,W,R)=(64.75394pt, 468.0pt, 64.75394pt)
-* v-part:(T,H,B)=(111.52342pt, 622.0pt, 111.52342pt)
+* h-part:(L,W,R)=(37.75394pt, 522.0pt, 37.75394pt)
+* v-part:(T,H,B)=(81.52342pt, 682.0pt, 81.52342pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=468.0pt
-* \textheight=622.0pt
-* \oddsidemargin=-7.51605pt
-* \evensidemargin=-7.51605pt
-* \topmargin=-22.74657pt
+* \textwidth=522.0pt
+* \textheight=682.0pt
+* \oddsidemargin=-34.51605pt
+* \evensidemargin=-34.51605pt
+* \topmargin=-52.74657pt
 * \headheight=50.0pt
 * \headsep=12.0pt
 * \topskip=10.0pt
 * \footskip=18.0pt
 * \marginparwidth=4.0pt
 * \marginparsep=10.0pt
-* \columnsep=24.0pt
+* \columnsep=18.0pt
 * \skip\footins=24.0pt plus 2.0pt minus 12.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
@@ -624,25 +624,40 @@ LaTeX Font Info:    Try loading font information for U+txsyc on input line 135.
 (/usr/local/texlive/2010/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-No file Evaluating_the_Health_of_OSCs.bbl.
-[1{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+Missing character: There is no â in font txr!
+Missing character: There is no € in font txr!
+Missing character: There is no ™ in font txr!
+Missing character: There is no â in font txr!
+Missing character: There is no € in font txr!
+Missing character: There is no ™ in font txr!
+Missing character: There is no â in font txr!
+Missing character: There is no € in font txr!
+Missing character: There is no ™ in font txr!
 
+Underfull \vbox (badness 8170) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-(./Evaluating_the_Health_of_OSCs.aux)
+Underfull \hbox (badness 2781) in paragraph at lines 154--155
+[]\OT1/txr/m/n/10 The fol-low-ing sec-tion in-tro-duces the uti-lized re-search
+
+ []
+
+(./Evaluating_the_Health_of_OSCs.bbl) [2] (./Evaluating_the_Health_of_OSCs.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 3231 strings out of 493763
- 42777 string characters out of 3144954
- 101976 words of memory out of 3000000
- 6450 multiletter control sequences out of 15000+200000
+ 3282 strings out of 493763
+ 43699 string characters out of 3144954
+ 109545 words of memory out of 3000000
+ 6499 multiletter control sequences out of 15000+200000
  32808 words of font info for 85 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 38i,7n,30p,494b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,7n,30p,2587b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2010/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/tex
 live/2010/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/20
@@ -650,10 +665,10 @@ live/2010/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/20
 f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2010/texmf-dist/fon
 ts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/u
 rw/times/utmri8a.pfb>
-Output written on Evaluating_the_Health_of_OSCs.pdf (1 page, 50633 bytes).
+Output written on Evaluating_the_Health_of_OSCs.pdf (2 pages, 60348 bytes).
 PDF statistics:
- 33 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 36 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
