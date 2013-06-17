@@ -4,44 +4,44 @@ The top-level auxiliary file: Evaluating_the_Health_of_OSCs.aux
 The style file: model1-num-names.bst
 Database file #1: sources.bib.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 11 entries,
+You've used 13 entries,
             2910 wiz_defined-function locations,
-            730 strings with 8051 characters,
-and the built_in function-call counts, 6650 in all, are:
-= -- 541
-> -- 236
-< -- 6
-+ -- 89
-- -- 78
-* -- 793
-:= -- 1004
-add.period$ -- 11
-call.type$ -- 11
-change.case$ -- 81
-chr.to.int$ -- 11
-cite$ -- 11
-duplicate$ -- 419
-empty$ -- 450
-format.name$ -- 103
-if$ -- 1197
+            751 strings with 8748 characters,
+and the built_in function-call counts, 8083 in all, are:
+= -- 648
+> -- 289
+< -- 8
++ -- 108
+- -- 95
+* -- 961
+:= -- 1201
+add.period$ -- 13
+call.type$ -- 13
+change.case$ -- 98
+chr.to.int$ -- 13
+cite$ -- 13
+duplicate$ -- 528
+empty$ -- 555
+format.name$ -- 129
+if$ -- 1470
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 99
-newline$ -- 70
-num.names$ -- 44
-pop$ -- 86
+missing$ -- 120
+newline$ -- 80
+num.names$ -- 54
+pop$ -- 116
 preamble$ -- 1
-purify$ -- 81
+purify$ -- 96
 quote$ -- 0
-skip$ -- 117
+skip$ -- 153
 stack$ -- 0
-substring$ -- 438
-swap$ -- 359
-text.length$ -- 0
+substring$ -- 500
+swap$ -- 448
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 99
+type$ -- 117
 warning$ -- 0
-while$ -- 56
+while$ -- 67
 width$ -- 0
-write$ -- 157
+write$ -- 186

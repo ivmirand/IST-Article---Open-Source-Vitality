@@ -22,7 +22,6 @@
 %% $URL: http://lenova.river-valley.com/svn/elsbst/trunk/elsarticle-template-1-num.tex $
 %%
 \documentclass[final,5p,times,twocolumn]{elsarticle}
-
 %% Use the option review to obtain double line spacing
 %% \documentclass[preprint,review,12pt]{elsarticle}
 
@@ -37,9 +36,9 @@
 
 %% if you use PostScript figures in your article
 %% use the graphics package for simple commands
-%% \usepackage{graphics}
+%%\usepackage{graphics}
 %% or use the graphicx package for more complicated commands
-%% \usepackage{graphicx}
+%%\usepackage{graphicx}
 %% or use the epsfig package if you prefer to use the old commands
 %% \usepackage{epsfig}
 
@@ -157,6 +156,80 @@ The following section introduces the utilized research method, covering case stu
 
 \section{The OSC Health Analysis Method}
 \label{OSC_method_section}
+Built on the developed understanding of OSC vitality, this section introduces a systematic approach for software product managers that enables them to evaluate the vitality of candidate open source communities. Hereby, the foundation for the following method is based on five expert interviews, the introduced systematic literature review, a study of OSC related practices at the case company, as well as a distilled list of OSC vitality indicators.
+\subsection{Method Fragment Pool}
+\begin{figure*}
+\begin{center}
+\includegraphics[scale=0.55]{figures/Situational_Method_Design.png}
+\caption{Design Process: Situational OSC Health Analysis Method}
+\label{fig:OSC_model}
+\end{center}
+\end{figure*} 
+Derived from the domain of method engineering, this section introduces the concept of situational method design, as well as that of a method fragment pool, containing base elements for method assembly. While the general principles of situational method engineering \cite{VanDeWeerd2008} fully apply, this section focuses on a customized adoption towards the specific needs of Software Product Managers and their responsibilities in regard to OSC dependency management. Built upon the work of Harmsen, Brinkkemper and Oei \cite{Harmsen1994}, Figure \ref{fig:OSC_model} depicts a process flow aimed at creating a situational method for OSC vitality assessment. Furthermore, the diagram includes an iterative cycle, focused on the customization of method fragments towards a community's unique characteristics. The building blocks of a situational method are so called method fragments, which are stored within the method fragment pool. Each element within the pool focuses on assessing one specific OSC vitality aspect and can be either used by itself, or in combination with other fragments. Each fragment is linked to situational factors that make it best suited for assessing either a given community type or determining its applicability for a given Software Product. Fragment selection begins with an assessment of OSC characteristics, necessary for narrowing down the total number of candidate method fragments for the given case. Combined with the requirements and the resources of the respective Software Product, both form the selection rational for choosing suitable method fragments within the existing fragment pool. Following the selection process, the chosen fragments are being assembled into a situational method. Although a particular order is not a requirement, a logical structure or segmentation into fragment groups can contribute to the method’s usability. Depending on the relative significance of community aspects, fragment importance can vary. Thus, looking at the overall quality of the software product, individual fragments can receive a greater weighted influence over less significant ones. After method assembly, the individual fragments and the entire method can undergo an iterative process, aimed at improving the accuracy of the assessed OSC vitality. Hereby, historic or present community data can be used to review fragment and method accuracy. If a given fragment is found to generate inaccurate or contradictory vitality data it can be adjusted, its result weighed less or it can be fully removed from the situational method. All community specific adjustments can then be updated and re-­inserted into the fragment pool. Should another software product, with varying project characteristics, require assessing this particular OSC, the new and more accurate fragments can be implemented.
+
+\subsection{Fragment Categorization and Selection Rationale}
+The following sub-section introduces a number of criteria that can be used to select situation specific method fragments for a given OS community or software development project. The main reason for this approach is the intention to create a practical heuristic that can be quickly utilized for method assembly. The approach does not enforce the selection of specific fragments, based on the presented rationale, but merely suggests using it as an indicator for assessing fragment suitability. The three introduced criteria have been selected based on their simplicity for the use by software product managers and their universal applicability for varying types of OSCs. Herby, the first two indicators stem from scientific literature and focus on specific community characteristics. The third indicator is based on the authors’ estimate for required fragment resources and aims at a software product's development scope.
+
+\begin{figure}[htp]
+\begin{center}
+\includegraphics[scale=0.15]{figures/situational_factor_community_size.PNG}
+\caption{Fragment Selection Indicator - ­Community size}
+\label{fig:ratio_community_soze}
+\end{center}
+\end{figure}
+The most evident indicator for fragment selection is community size. Hereby the size can be measured by the number of OSC developers, the number of core developers or alternatively the total number of registered community members. While this indicator needs to be adjusted for each community's nature or characteristics, it can help to quickly exclude fragments that are only applicable to large or very small OSC types. Each method fragment is labelled with one or many community size indicators, suggesting the most suitable community sizes.
+
+Community age is a direct indicator for the probability of its survival and was found to have a significant positive correlation with the maturity of it software development processes and its governance structure \cite{Samoladas2010}. This in return makes it a suitable indicator for selecting applicable method fragment, as it can indicate which fragments are best suited for mature or young OSCs. Alike to the previous indicator, each fragment can have one or multiple labels describing matching OSC criteria.
+\begin{figure}[htp]
+\begin{center}
+\includegraphics[scale=0.15]{figures/situational_factor_community_maturity.PNG}
+\caption{Fragment Selection Indicator - ­Community maturity}
+\label{fig:ratio_community_maturity}
+\end{center}
+\end{figure} 
+Looking directly at the perspective of software product managers, disposable time and financial resources can vary greatly with each managed software product. Thus, even if a method fragment for vitality assessment is promising, it yet may not be feasible to use. This can be the case if the given fragment exceeds available project resources or if the overall analysis would benefit from focusing the efforts on less resource intensive fragments. In contrast to the previous indicator, each fragment is labeled with only one cost indicator that expresses the authors' estimate of the necessary financial or time investment, in order to execute the according method fragment.
+\begin{figure}[htp]
+\begin{center}
+\includegraphics[scale=0.15]{figures/situational_factor_resource_investment.PNG}
+\caption{Fragment Selection Indicator - ­Fragment cost}
+\label{fig:ratio_fragment_cost}
+\end{center}
+\end{figure}   
+\subsection{Sample Fragment and Method Utilization}
+By combining the introduced selection rationale and a list of validated vitality indicators, this sub-section describes a representative OSC health method fragments that can be used by software product managers for OSC assessment. The complete method is comprised of ten method fragments, segmented into five fragment categories. Three categories are  designed to group fragments that operationalize and process similar data types. The remaining two categories aim at establishing a common method base for standardized data extraction and the optimization of monitoring resource with other OSC stakeholders.
+
+The sample fragment, depicted in Figure \ref{fig:OSC_method_fragment}, aims at external OSC metrics and is most suitable for measuring outward facing OSC activities. This includes actions, such as extracting the number of OSC downloads over time, tracking online search popularity or monitoring release frequency. All activities produce individual results, as well as an aggregate index, representing the overall metrics performance. The fragment is suitable for a broad range of OSCs with varying degrees of maturity and size. However, due to the necessity to establish and track changes to the indices, the fragment is relatively expensive and has the second highest cost rating.
+\begin{figure*}
+\begin{center}
+\includegraphics[scale=0.7]{figures/monitor_external_metrics.png}
+\caption{OSC Health Method Fragment: Monitor external metrics}
+\label{fig:OSC_method_fragment}
+\end{center}
+\end{figure*}   
+In order to present a practical example of the method’s application, a representative OSC was selected for data analysis. The main reason for choosing a single OSC was to introduce a set of steps that can be taken in order to apply the introduced method fragments to a realistic assessment scenario. Furthermore, the aim was to present an analysis of a broadly known OSC and thus make the example as relatable as possible for project managers, familiarizing themselves with the new method. 
+
+OSC selection was performed based on the popularity index of one of the most widespread public source code repositories, namely Github. The platform is built around the distributed revision control system Git that provides an additional source of data. Due to Git's fully distributed architecture, revision data can be directly extracted from every cloned copy of a repository. Among the highest rated community projects on Github, the jQuery JavaScript library was selected for analysis. Although ranked third in the index (8. May 2013), the first two projects Twitter Bootstrap and Node.js were excluded due to either their direct ties to a commercial entity or the scope of available data and community maturity.The fragment's analysis is based on community data available on Github, the jQery Git repository, Ohloh (a public directory of open source software owned by Black Duck Software, Inc.), as well as community pages, blog entries and similar documentation of the jQery project. The jQery Git repository was mined with the open source tool GitStats\footnote{http://gitstats.sourceforge.net}.
+
+As suggested by the method fragment, all measured indices are aggregated into one external performance index. For this purpose, each metric has been first recorded with the according activity for each month between Aug. 07 and Apr. 13. Due to the different measuring units, the performance was adjusted to changes in percent, relative to a standardized base value. The index for the number of active contributors per month is operationalized by changes in percent, compared to an average of 8 contributors per month. This value is based on the actual project average for its entire lifespan and has been rounded to an integer value. Release frequency is recorded in relative frequency compared to a release frequency of 2 releases per year or 0.16 releases per month. As online popularity is already measured in percent values, relative to an established base value, the index has been included in the analysis as is. Although the most recent Github API does offer the opportunity to extract the overall number of downloads, this data attribute is not tracked over time and does not take downloads from other mirrors into account. Thus, this vitality indicator will not be included in this analysis.
+
+By combining the external performance indicators with available data for commit frequency, an aggregate view can be generated that incorporates all long term community activity into a single performance index. Figure \ref{fig:OSC_performance_index} depicts a unified index that combines all measured external vitality indicators with OSC commit frequency. Hereby, the commit frequency is expressed in a relative percent value based on an average commit frequency of 60 commits per month.
+
+It is noteworthy that when evaluating the graph, measurement consistency is most important while exact performance values lack significance. All index activity values are measured in relation to an established base value and could indicate stronger or weaker growth if the base is modified.
+\begin{figure*}
+\begin{center}
+\includegraphics[scale=0.7]{figures/Aggregate_OSC_Performance_Index.png}
+\caption{Aggregate OSC Performance Index: jQuery Core}
+\label{fig:OSC_performance_index}
+\end{center}
+\end{figure*}   
+\subsection{Method Assembly and Calibration}
+Depending on fragment selection, the final situational method can contain any combination of index or scale based elements, as well as binary results. Additionally, two fragments with the purpose of either correcting activity indexes for cyclical trends or for optimizing OSC monitoring efforts can be included. 
+
+The only fragment required for method assembly is the method base. Consequently, any number or combination of fragments can be utilized within the situational method. Based on the chosen selection rationale, software product managers can group fragments and are free to either aggregate method results or compare them on an individual basis. 
+
+Specifically looking at index driven methods and the produced performance indices, they can be aggregated to create a unified OSC performance index. Next to the overall OSC health, individual vitality indicators can be monitored separately in order to identify trends within vitality areas. Furthermore, the approach supports index adjustment by correcting the individual weight of vitality indices according to their importance for a given OSC. Thus, a situational method cannot just be tuned by means of fragment selection but also by means of adjusting fragments to local OSC realities. 
+
+Method artifacts generated by non-index fragments lack a distinct scale; however they can be used to register changes in vitality. By individually tracking variations in the likert ratings, each method fragment can be used as an indicator for changes in OSC health. The same applies to the specific case of monitoring software development practices. Despite the binary nature of the results, each can be compared to past practices of the OSC. Thus, added practices can be seen as an improvement to community health or code quality, while the abandonment of practices can be seen as a decline in community performance. 
 
 \section{Discussion and Conclusion}
 \label{discussion_conclusion_section}

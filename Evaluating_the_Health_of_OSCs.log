@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.3.18)  13 JUN 2013 16:30
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.3.18)  17 JUN 2013 12:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -463,42 +463,42 @@ LaTeX Font Info:    Redeclaring math symbol \backepsilon on input line 260.
 (./Evaluating_the_Health_of_OSCs.aux)
 \openout1 = `Evaluating_the_Health_of_OSCs.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 80.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 80.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 79.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 79.
 
 
 (/usr/local/texlive/2010/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 80.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 80.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 79.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 79.
 
 
 (/usr/local/texlive/2010/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 80.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 80.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 79.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 79.
 
 
 (/usr/local/texlive/2010/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 80.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 80.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 79.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 79.
 
 (/usr/local/texlive/2010/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 80.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 79.
 
 (/usr/local/texlive/2010/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
@@ -603,22 +603,22 @@ Missing character: There is no ˜ in font txr!
 Missing character: There is no â in font txr!
 Missing character: There is no € in font txr!
 Missing character: There is no ™ in font txr!
-LaTeX Font Info:    Try loading font information for U+txmia on input line 135.
+LaTeX Font Info:    Try loading font information for U+txmia on input line 134.
 
 (/usr/local/texlive/2010/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 135.
+LaTeX Font Info:    Try loading font information for U+msa on input line 134.
 
 (/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 135.
+LaTeX Font Info:    Try loading font information for U+msb on input line 134.
 
 (/usr/local/texlive/2010/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 135.
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 134.
 
 
 (/usr/local/texlive/2010/texmf-dist/tex/latex/txfonts/utxsyc.fd
@@ -640,35 +640,93 @@ Underfull \vbox (badness 8170) has occurred while \output is active []
 
 
 ]
-Underfull \hbox (badness 2781) in paragraph at lines 154--155
+Underfull \hbox (badness 2781) in paragraph at lines 153--154
 []\OT1/txr/m/n/10 The fol-low-ing sec-tion in-tro-duces the uti-lized re-search
 
  []
 
-(./Evaluating_the_Health_of_OSCs.bbl) [2] (./Evaluating_the_Health_of_OSCs.aux)
+<figures/Situational_Method_Design.png, id=12, 794.97pt x 419.5675pt>
+File: figures/Situational_Method_Design.png Graphic file (type png)
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+<use figures/Situational_Method_Design.png>
+Missing character: There is no â in font txr!
+Missing character: There is no € in font txr!
+Missing character: There is no ™ in font txr!
+Missing character: There is no Â in font txr!
+Missing character: There is no ­ in font txr!
+Missing character: There is no â in font txr!
+Missing character: There is no € in font txr!
+Missing character: There is no ™ in font txr!
 
- ) 
+<figures/situational_factor_community_size.PNG, id=13, 852.93657pt x 185.19188p
+t>
+File: figures/situational_factor_community_size.PNG Graphic file (type png)
+ <use figures/situational_factor_community_size.PNG>
+Missing character: There is no Â in font txr!
+Missing character: There is no ­ in font txr!
+ [2]
+<figures/situational_factor_community_maturity.PNG, id=18, 852.18375pt x 180.67
+5pt>
+File: figures/situational_factor_community_maturity.PNG Graphic file (type png)
+
+ <use figures/situational_factor_community_maturity.PNG>
+Missing character: There is no Â in font txr!
+Missing character: There is no ­ in font txr!
+
+<figures/situational_factor_resource_investment.PNG, id=19, 852.18375pt x 183.6
+8625pt>
+File: figures/situational_factor_resource_investment.PNG Graphic file (type png
+)
+ <use figures/situational_factor_resource_investment.PNG>
+Missing character: There is no Â in font txr!
+Missing character: There is no ­ in font txr!
+
+<figures/monitor_external_metrics.png, id=20, 427.71796pt x 261.3765pt>
+File: figures/monitor_external_metrics.png Graphic file (type png)
+
+<use figures/monitor_external_metrics.png>
+Missing character: There is no â in font txr!
+Missing character: There is no € in font txr!
+Missing character: There is no ™ in font txr!
+ [3 <./figures/Situational_Method_Design.png (PNG copy)> <./figures/situational
+_factor_community_size.PNG> <./figures/situational_factor_community_maturity.PN
+G> <./figures/situational_factor_resource_investment.PNG>]
+Underfull \hbox (badness 1184) in paragraph at lines 215--216
+[]\OT1/txr/m/n/10 By com-bin-ing the ex-ter-nal per-for-mance in-di-ca-tors wit
+h
+ []
+
+<figures/Aggregate_OSC_Performance_Index.png, id=27, 604.1772pt x 336.7782pt>
+File: figures/Aggregate_OSC_Performance_Index.png Graphic file (type png)
+
+<use figures/Aggregate_OSC_Performance_Index.png>
+Underfull \hbox (badness 2460) in paragraph at lines 226--227
+[]\OT1/txr/m/n/10 Depending on frag-ment se-lec-tion, the fi-nal sit-u-a-tional
+
+ []
+
+[4 <./figures/monitor_external_metrics.png (PNG copy)>]
+(./Evaluating_the_Health_of_OSCs.bbl) [5 <./figures/Aggregate_OSC_Performance_I
+ndex.png>] (./Evaluating_the_Health_of_OSCs.aux) ) 
 Here is how much of TeX's memory you used:
- 3282 strings out of 493763
- 43699 string characters out of 3144954
- 109545 words of memory out of 3000000
- 6499 multiletter control sequences out of 15000+200000
- 32808 words of font info for 85 fonts, out of 3000000 for 9000
+ 3334 strings out of 493763
+ 45439 string characters out of 3144954
+ 110714 words of memory out of 3000000
+ 6540 multiletter control sequences out of 15000+200000
+ 34124 words of font info for 87 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 38i,7n,30p,2587b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2010/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/tex
-live/2010/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/20
-10/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2010/texm
-f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2010/texmf-dist/fon
-ts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/u
-rw/times/utmri8a.pfb>
-Output written on Evaluating_the_Health_of_OSCs.pdf (2 pages, 60348 bytes).
+ 38i,8n,30p,2881b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2010/texm
+f-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2010/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2010/texmf-dist/fonts/type
+1/public/txfonts/rtxr.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/publi
+c/txfonts/txsy.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/urw/times/ut
+mb8a.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><
+/usr/local/texlive/2010/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Evaluating_the_Health_of_OSCs.pdf (5 pages, 645206 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
