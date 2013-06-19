@@ -1,4 +1,4 @@
-\begin{thebibliography}{13}
+\begin{thebibliography}{27}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -100,6 +100,127 @@
   success: A longitudinal study}},
 \newblock \bibinfo{journal}{Decision Support Systems} \bibinfo{volume}{46}
   (\bibinfo{year}{2009}) \bibinfo{pages}{576--585}.
+%Type = Article
+\bibitem[{Okoli and Schabram(2010)}]{Okoli2010}
+\bibinfo{author}{C.~Okoli}, \bibinfo{author}{K.~Schabram},
+\newblock \bibinfo{title}{{A Guide to Conducting a Systematic Literature Review
+  of Information Systems Research}},
+\newblock \bibinfo{journal}{Sprouts Working Papers on Information Systems}
+  \bibinfo{volume}{10} (\bibinfo{year}{2010}) \bibinfo{pages}{1--49}.
+%Type = Article
+\bibitem[{Stewart et~al.(2006)Stewart, Ammeter, and Maruping}]{Stewart2006}
+\bibinfo{author}{K.~J. Stewart}, \bibinfo{author}{A.~P. Ammeter},
+  \bibinfo{author}{L.~M. Maruping},
+\newblock \bibinfo{title}{{Impacts of License Choice and Organizational
+  Sponsorship on User Interest and Development Activity in Open Source Software
+  Projects}},
+\newblock \bibinfo{journal}{Information Systems Research} \bibinfo{volume}{17}
+  (\bibinfo{year}{2006}) \bibinfo{pages}{126--144}.
+%Type = Inproceedings
+\bibitem[{Yu et~al.(2009)Yu, Ramaswamy, Lenin, and Narasimhan}]{Yu2009}
+\bibinfo{author}{L.~Yu}, \bibinfo{author}{S.~Ramaswamy}, \bibinfo{author}{R.~B.
+  Lenin}, \bibinfo{author}{V.~L. Narasimhan},
+\newblock \bibinfo{title}{{Time series analysis of open-source software
+  projects}},
+\newblock in: \bibinfo{booktitle}{Proceedings of the 47th Annual Southeast
+  Regional Conference on - ACM-SE 47}, \bibinfo{publisher}{ACM Press},
+  \bibinfo{address}{New York, New York, USA}, \bibinfo{year}{2009},
+  p.~\bibinfo{pages}{1}. \URLprefix
+  \url{http://dl.acm.org/citation.cfm?id=1566445.1566531}.
+  \DOIprefix\doi{10.1145/1566445.1566531}.
+%Type = Inproceedings
+\bibitem[{Maki-Asiala and Matinlassi(2006)}]{Maki-Asiala2006}
+\bibinfo{author}{P.~Maki-Asiala}, \bibinfo{author}{M.~Matinlassi},
+\newblock \bibinfo{title}{{Quality Assurance of Open Source Components:
+  Integrator Point of View}},
+\newblock in: \bibinfo{booktitle}{30th Annual International Computer Software
+  and Applications Conference (COMPSAC'06)}, \bibinfo{publisher}{IEEE},
+  \bibinfo{year}{2006}, pp. \bibinfo{pages}{189--194}. \URLprefix
+  \url{http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4020166}.
+  \DOIprefix\doi{10.1109/COMPSAC.2006.153}.
+%Type = Misc
+\bibitem[{Immonen and Palviainen(2007)}]{Immonen2007}
+\bibinfo{author}{A.~Immonen}, \bibinfo{author}{M.~Palviainen},
+  \bibinfo{title}{{Trustworthiness Evaluation and Testing of Open Source
+  Components}}, \bibinfo{year}{2007}.
+  \DOIprefix\doi{10.1109/QSIC.2007.4385514}.
+%Type = Article
+\bibitem[{West and O'mahony(2008)}]{West2008}
+\bibinfo{author}{J.~West}, \bibinfo{author}{S.~O'mahony},
+\newblock \bibinfo{title}{{The Role of Participation Architecture in Growing
+  Sponsored Open Source Communities}},
+\newblock \bibinfo{journal}{Industry Innovation} \bibinfo{volume}{15}
+  (\bibinfo{year}{2008}) \bibinfo{pages}{145--168}.
+%Type = Misc
+\bibitem[{Stewart et~al.(2005)Stewart, Ammeter, and Maruping}]{Stewart2005}
+\bibinfo{author}{K.~Stewart}, \bibinfo{author}{A.~Ammeter},
+  \bibinfo{author}{L.~Maruping}, \bibinfo{title}{{A Preliminary Analysis of the
+  Influences of Licensing and Organizational Sponsorship on Success in Open
+  Source Projects}}, \bibinfo{year}{2005}. \URLprefix
+  \url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1385641}.
+  \DOIprefix\doi{10.1109/HICSS.2005.38}.
+%Type = Article
+\bibitem[{Wu et~al.(2007)Wu, Gerlach, and Young}]{Wu2007}
+\bibinfo{author}{C.-G. Wu}, \bibinfo{author}{J.~H. Gerlach},
+  \bibinfo{author}{C.~E. Young},
+\newblock \bibinfo{title}{{An empirical analysis of open source software
+  developers' motivations and continuance intentions}},
+\newblock \bibinfo{journal}{Information \& Management} \bibinfo{volume}{44}
+  (\bibinfo{year}{2007}) \bibinfo{pages}{253--262}.
+%Type = Article
+\bibitem[{Raja and Tretter(2006)}]{Raja2006}
+\bibinfo{author}{U.~Raja}, \bibinfo{author}{M.~J. Tretter},
+\newblock \bibinfo{title}{{Investigating open source project success: A data
+  mining approach to model formulation, validation and testing}},
+\newblock \bibinfo{journal}{Neural Networks}  (\bibinfo{year}{2006})
+  \bibinfo{pages}{1--7}.
+%Type = Article
+\bibitem[{Michlmayr(2005)}]{Michlmayr2005}
+\bibinfo{author}{M.~Michlmayr},
+\newblock \bibinfo{title}{{Software Process Maturity and the Success of Free
+  Software Projects}},
+\newblock \bibinfo{journal}{Control} \bibinfo{volume}{130}
+  (\bibinfo{year}{2005}) \bibinfo{pages}{3--14}.
+%Type = Inproceedings
+\bibitem[{Crowston et~al.(2003)Crowston, Annabi, and Howison}]{Crowston2003}
+\bibinfo{author}{K.~Crowston}, \bibinfo{author}{H.~Annabi},
+  \bibinfo{author}{J.~Howison},
+\newblock \bibinfo{title}{{Defining open source software project success}},
+\newblock in: \bibinfo{editor}{Tbd} (Ed.), \bibinfo{booktitle}{Information
+  Systems Journal}, volume \bibinfo{volume}{Paper 4},
+  \bibinfo{publisher}{Citeseer}, \bibinfo{year}{2003}, pp.
+  \bibinfo{pages}{327--340}. \URLprefix
+  \url{http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.10.6110\&amp;rep=rep1\&amp;type=pdf}.
+  \DOIprefix\doi{10.1.1.10.6110}.
+%Type = Inproceedings
+\bibitem[{Parizi and Ghani(2010)}]{Parizi2010}
+\bibinfo{author}{R.~M. Parizi}, \bibinfo{author}{A.~A.~A. Ghani},
+\newblock \bibinfo{title}{{Towards Automated Monitoring and Forecasting of
+  Probabilistic Quality Properties in Open Source Software (OSS): A Striking
+  Hybrid Approach}},
+\newblock in: \bibinfo{booktitle}{2010 Eighth ACIS International Conference on
+  Software Engineering Research, Management and Applications},
+  \bibinfo{publisher}{IEEE}, \bibinfo{year}{2010}, pp.
+  \bibinfo{pages}{329--334}. \URLprefix
+  \url{http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=5489075}.
+  \DOIprefix\doi{10.1109/SERA.2010.48}.
+%Type = Article
+\bibitem[{Samoladas et~al.(2008)Samoladas, Gousios, Spinellis, and
+  Stamelos}]{Samoladas2008}
+\bibinfo{author}{I.~Samoladas}, \bibinfo{author}{G.~Gousios},
+  \bibinfo{author}{D.~Spinellis}, \bibinfo{author}{I.~Stamelos},
+\newblock \bibinfo{title}{{The SQO-OSS Quality Model: Measurement Based Open
+  Source Software Evaluation}},
+\newblock \bibinfo{journal}{Open Source Development Communities and Quality}
+  \bibinfo{volume}{275} (\bibinfo{year}{2008}) \bibinfo{pages}{237--248}.
+%Type = Misc
+\bibitem[{Torres et~al.(2011)Torres, Toral, Perales, and Barrero}]{Torres2011}
+\bibinfo{author}{M.~R.~M. Torres}, \bibinfo{author}{S.~L. Toral},
+  \bibinfo{author}{M.~Perales}, \bibinfo{author}{F.~Barrero},
+  \bibinfo{title}{{Analysis of the Core Team Role in Open Source Communities}},
+  \bibinfo{year}{2011}. \URLprefix
+  \url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5988976}.
+  \DOIprefix\doi{10.1109/CISIS.2011.25}.
 %Type = Article
 \bibitem[{{Van De Weerd} and Brinkkemper(2008)}]{VanDeWeerd2008}
 \bibinfo{author}{I.~{Van De Weerd}}, \bibinfo{author}{S.~Brinkkemper},

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.3.18)  17 JUN 2013 12:18
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.3.18)  19 JUN 2013 13:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -645,7 +645,146 @@ Underfull \hbox (badness 2781) in paragraph at lines 153--154
 
  []
 
-<figures/Situational_Method_Design.png, id=12, 794.97pt x 419.5675pt>
+
+Underfull \hbox (badness 1028) in paragraph at lines 158--159
+[]\OT1/txr/m/n/10 The em-pir-i-cal foun-da-tion for the OSC Health Anal-y-sis
+ []
+
+Missing character: There is no â in font txr!
+Missing character: There is no € in font txr!
+Missing character: There is no ™ in font txr!
+Missing character: There is no â in font txr!
+Missing character: There is no € in font txr!
+Missing character: There is no ™ in font txr!
+<figures/keyword_combinations.png, id=12, 276.5532pt x 84.7968pt>
+File: figures/keyword_combinations.png Graphic file (type png)
+
+<use figures/keyword_combinations.png> [2]
+<figures/Systematic_literature_review.png, id=17, 227.4096pt x 242.3454pt>
+File: figures/Systematic_literature_review.png Graphic file (type png)
+
+<use figures/Systematic_literature_review.png>
+Underfull \hbox (badness 7116) in paragraph at lines 194--194
+[]\OT1/txr/bx/n/10 Vitality In-di-ca-
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 197--197
+[]\OT1/txr/m/n/10 Literature: [[]], In-ter-
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 201--201
+[]\OT1/txr/m/n/10 (Core) de-vel-oper
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 201--201
+[]\OT1/txr/m/n/10 Technical and lead-er-ship rep-u-ta-tion of (core) de-vel-op-
+ers of OSC
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
+[]\OT1/txr/m/n/10 Corporate Pa-
+ []
+
+
+Underfull \hbox (badness 4582) in paragraph at lines 203--203
+[]\OT1/txr/m/n/10 Developer In-ter-
+ []
+
+
+Underfull \hbox (badness 3668) in paragraph at lines 203--203
+\OT1/txr/m/n/10 est and mo-ti-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+[]\OT1/txr/m/n/10 License re-stric-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
+[]\OT1/txr/m/n/10 Maturity of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
+\OT1/txr/m/n/10 Soft-ware de-vel-
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 206--206
+[]\OT1/txr/m/n/10 Literature:[[]] & [[]],
+ []
+
+
+Overfull \hbox (2.99364pt too wide) in paragraph at lines 207--207
+[]\OT1/txr/m/n/10 V10| 
+ []
+
+
+Overfull \hbox (2.99364pt too wide) in paragraph at lines 208--208
+[]\OT1/txr/m/n/10 V11| 
+ []
+
+
+Overfull \hbox (2.99364pt too wide) in paragraph at lines 209--209
+[]\OT1/txr/m/n/10 V12| 
+ []
+
+
+Overfull \hbox (2.99364pt too wide) in paragraph at lines 210--210
+[]\OT1/txr/m/n/10 V13| 
+ []
+
+
+Overfull \hbox (2.99364pt too wide) in paragraph at lines 212--212
+[]\OT1/txr/m/n/10 V14| 
+ []
+
+
+Overfull \hbox (2.99364pt too wide) in paragraph at lines 213--213
+[]\OT1/txr/m/n/10 V15| 
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 213--213
+[]\OT1/txr/m/n/10 Quality of OSC
+ []
+
+
+Overfull \hbox (2.99364pt too wide) in paragraph at lines 214--214
+[]\OT1/txr/m/n/10 V16| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
+[]\OT1/txr/m/n/10 Release fre-
+ []
+
+
+Overfull \hbox (2.99364pt too wide) in paragraph at lines 215--215
+[]\OT1/txr/m/n/10 V17| 
+ []
+
+
+Overfull \hbox (2.99364pt too wide) in paragraph at lines 216--216
+[]\OT1/txr/m/n/10 V18| 
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 216--216
+[]\OT1/txr/m/n/10 User in-ter-est in
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./figures/keyword_combinations.png> <./figures/Systematic_literature_revie
+w.png>]
+[4] <figures/Situational_Method_Design.png, id=26, 794.97pt x 419.5675pt>
 File: figures/Situational_Method_Design.png Graphic file (type png)
 
 <use figures/Situational_Method_Design.png>
@@ -658,14 +797,14 @@ Missing character: There is no â in font txr!
 Missing character: There is no € in font txr!
 Missing character: There is no ™ in font txr!
 
-<figures/situational_factor_community_size.PNG, id=13, 852.93657pt x 185.19188p
+<figures/situational_factor_community_size.PNG, id=27, 852.93657pt x 185.19188p
 t>
 File: figures/situational_factor_community_size.PNG Graphic file (type png)
  <use figures/situational_factor_community_size.PNG>
 Missing character: There is no Â in font txr!
 Missing character: There is no ­ in font txr!
- [2]
-<figures/situational_factor_community_maturity.PNG, id=18, 852.18375pt x 180.67
+
+<figures/situational_factor_community_maturity.PNG, id=28, 852.18375pt x 180.67
 5pt>
 File: figures/situational_factor_community_maturity.PNG Graphic file (type png)
 
@@ -673,60 +812,203 @@ File: figures/situational_factor_community_maturity.PNG Graphic file (type png)
 Missing character: There is no Â in font txr!
 Missing character: There is no ­ in font txr!
 
-<figures/situational_factor_resource_investment.PNG, id=19, 852.18375pt x 183.6
+<figures/situational_factor_resource_investment.PNG, id=29, 852.18375pt x 183.6
 8625pt>
 File: figures/situational_factor_resource_investment.PNG Graphic file (type png
 )
  <use figures/situational_factor_resource_investment.PNG>
 Missing character: There is no Â in font txr!
 Missing character: There is no ­ in font txr!
-
-<figures/monitor_external_metrics.png, id=20, 427.71796pt x 261.3765pt>
+ [5 <./figures/situational_factor_community_size.PNG> <./figures/situational_fa
+ctor_community_maturity.PNG>]
+<figures/monitor_external_metrics.png, id=35, 427.71796pt x 261.3765pt>
 File: figures/monitor_external_metrics.png Graphic file (type png)
 
 <use figures/monitor_external_metrics.png>
 Missing character: There is no â in font txr!
 Missing character: There is no € in font txr!
 Missing character: There is no ™ in font txr!
- [3 <./figures/Situational_Method_Design.png (PNG copy)> <./figures/situational
-_factor_community_size.PNG> <./figures/situational_factor_community_maturity.PN
-G> <./figures/situational_factor_resource_investment.PNG>]
-Underfull \hbox (badness 1184) in paragraph at lines 215--216
+ [6 <./figures/Situational_Method_Design.png (PNG copy)> <./figures/situational
+_factor_resource_investment.PNG>]
+Underfull \hbox (badness 1184) in paragraph at lines 281--282
 []\OT1/txr/m/n/10 By com-bin-ing the ex-ter-nal per-for-mance in-di-ca-tors wit
 h
  []
 
-<figures/Aggregate_OSC_Performance_Index.png, id=27, 604.1772pt x 336.7782pt>
+<figures/Aggregate_OSC_Performance_Index.png, id=40, 604.1772pt x 336.7782pt>
 File: figures/Aggregate_OSC_Performance_Index.png Graphic file (type png)
 
 <use figures/Aggregate_OSC_Performance_Index.png>
-Underfull \hbox (badness 2460) in paragraph at lines 226--227
+Underfull \hbox (badness 2460) in paragraph at lines 292--293
 []\OT1/txr/m/n/10 Depending on frag-ment se-lec-tion, the fi-nal sit-u-a-tional
 
  []
 
-[4 <./figures/monitor_external_metrics.png (PNG copy)>]
-(./Evaluating_the_Health_of_OSCs.bbl) [5 <./figures/Aggregate_OSC_Performance_I
-ndex.png>] (./Evaluating_the_Health_of_OSCs.aux) ) 
+(./Evaluating_the_Health_of_OSCs.bbl [7 <./figures/monitor_external_metrics.png
+ (PNG copy)>]
+Underfull \hbox (badness 1558) in paragraph at lines 121--132
+[]\OT1/txr/m/n/8 L. Yu, S. Ra-maswamy, R. B. Lenin, V. L. Narasimhan,  Time
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 121--132
+\OT1/txr/m/n/8 se-ries anal-y-sis of open-source soft-ware projects,  in: Pro-c
+eed-
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 121--132
+\OT1/txr/m/n/8 SE 47, ACM Press, New York, New York, USA, 2009, p. 1.
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 121--132
+\OT1/txr/m/n/8 URL: \OT1/cmtt/m/n/8 http://dl.acm.org/citation.cfm?id=1566445.1
+566531\OT1/txr/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 133--142
+[]\OT1/txr/m/n/8 P. Maki-Asiala, M. Matin-lassi,  Qual-ity As-sur-ance of Open
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 133--142
+\OT1/txr/m/n/8 Source Com-po-nents: In-te-gra-tor Point of View,  in: 30th An-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--142
+\OT1/txr/m/n/8 nual In-ter-na-tional Com-puter Soft-ware and Ap-pli-ca-tions Co
+n-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--142
+\OT1/txr/m/n/8 fer-ence (COMP-SAC'06), IEEE, 2006, pp. 189--194. URL:
+ []
+
+
+Overfull \hbox (48.83203pt too wide) in paragraph at lines 133--142
+\OT1/cmtt/m/n/8 http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4020
+166\OT1/txr/m/n/8 .
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 6332) in paragraph at lines 156--163
+[]\OT1/txr/m/n/8 K. Stew-art, A. Am-me-ter, L. Marup-ing, A Pre-lim-i-nary Anal
+-
+ []
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 156--163
+\OT1/txr/m/n/8 y-sis of the In-flu-ences of Li-cens-ing and Or-ga-ni-za-tional 
+Spon-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--163
+\OT1/txr/m/n/8 sor-ship on Suc-cess in Open Source Projects, 2005. URL:
+ []
+
+
+Overfull \hbox (61.58221pt too wide) in paragraph at lines 156--163
+\OT1/cmtt/m/n/8 http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1
+385641\OT1/txr/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 186--196
+[]\OT1/txr/m/n/8 K. Crow-ston, H. Annabi, J. How-i-son,  Defin-ing open source
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 186--196
+\OT1/txr/m/n/8 soft-ware project suc-cess,  in: Tbd (Ed.), In-for-ma-tion Sys-t
+ems
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 186--196
+\OT1/txr/m/n/8 Jour-nal, vol-ume Pa-per 4, Cite-seer, 2003, pp. 327--340. URL:
+ []
+
+
+Overfull \hbox (150.8335pt too wide) in paragraph at lines 186--196
+\OT1/cmtt/m/n/8 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.10.611
+0&amp;rep=rep1&amp;type=pdf\OT1/txr/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 197--209
+[]\OT1/txr/m/n/8 R. M. Parizi, A. A. A. Ghani,  To-wards Au-to-mated Mon-i-tor-
+ing
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 197--209
+\OT1/txr/m/n/8 Soft-ware (OSS): A Strik-ing Hy-brid Ap-proach,  in: 2010 Eighth
+
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 197--209
+\OT1/txr/m/n/8 ACIS In-ter-na-tional Con-fer-ence on Soft-ware En-gi-neer-ing R
+e-search,
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 197--209
+\OT1/txr/m/n/8 Man-age-ment and Ap-pli-ca-tions, IEEE, 2010, pp. 329--334. URL:
+
+ []
+
+
+Overfull \hbox (22.14163pt too wide) in paragraph at lines 197--209
+\OT1/cmtt/m/n/8 http://ieeexplore.ieee.org/xpls/abs[]all.jsp?arnumber=5489075\O
+T1/txr/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 218--225
+\OT1/txr/m/n/8 the Core Team Role in Open Source Com-mu-ni-ties, 2011. URL:
+ []
+
+
+Overfull \hbox (61.58221pt too wide) in paragraph at lines 218--225
+\OT1/cmtt/m/n/8 http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5
+988976\OT1/txr/m/n/8 .
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./figures/Aggregate_OSC_Performance_Index.png>]) [9
+
+]
+(./Evaluating_the_Health_of_OSCs.aux) ) 
 Here is how much of TeX's memory you used:
- 3334 strings out of 493763
- 45439 string characters out of 3144954
- 110714 words of memory out of 3000000
- 6540 multiletter control sequences out of 15000+200000
+ 3394 strings out of 493763
+ 46750 string characters out of 3144954
+ 123475 words of memory out of 3000000
+ 6598 multiletter control sequences out of 15000+200000
  34124 words of font info for 87 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 38i,8n,30p,2881b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2010/texm
-f-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2010/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2010/texmf-dist/fonts/type
-1/public/txfonts/rtxr.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/publi
-c/txfonts/txsy.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/urw/times/ut
-mb8a.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><
-/usr/local/texlive/2010/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Evaluating_the_Health_of_OSCs.pdf (5 pages, 645206 bytes).
+ 38i,10n,30p,2881b,313s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2010/texmf-dist/font
+s/enc/dvips/base/8r.enc}</usr/local/texlive/2010/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmtt8.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/tx
+fonts/rtxr.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/txfonts/t
+xsy.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></
+usr/local/texlive/2010/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/
+texlive/2010/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Evaluating_the_Health_of_OSCs.pdf (9 pages, 801274 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 74 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
