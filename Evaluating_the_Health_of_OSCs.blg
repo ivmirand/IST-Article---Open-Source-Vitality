@@ -7,16 +7,16 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--can't use both volume and number fields in Crowston2003
 You've used 27 entries,
             2910 wiz_defined-function locations,
-            886 strings with 13297 characters,
-and the built_in function-call counts, 17215 in all, are:
-= -- 1384
+            878 strings with 12775 characters,
+and the built_in function-call counts, 17107 in all, are:
+= -- 1354
 > -- 630
 < -- 20
 + -- 234
 - -- 207
-* -- 2041
-:= -- 2494
-add.period$ -- 40
+* -- 2017
+:= -- 2476
+add.period$ -- 34
 call.type$ -- 27
 change.case$ -- 207
 chr.to.int$ -- 27
@@ -24,20 +24,20 @@ cite$ -- 28
 duplicate$ -- 1187
 empty$ -- 1192
 format.name$ -- 293
-if$ -- 3192
+if$ -- 3162
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 253
 newline$ -- 144
 num.names$ -- 112
-pop$ -- 308
+pop$ -- 320
 preamble$ -- 1
 purify$ -- 203
 quote$ -- 0
 skip$ -- 348
 stack$ -- 0
 substring$ -- 911
-swap$ -- 965
+swap$ -- 959
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
@@ -45,5 +45,5 @@ type$ -- 243
 warning$ -- 1
 while$ -- 134
 width$ -- 0
-write$ -- 381
+write$ -- 375
 (There was 1 warning)

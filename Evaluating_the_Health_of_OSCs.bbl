@@ -125,9 +125,7 @@
 \newblock in: \bibinfo{booktitle}{Proceedings of the 47th Annual Southeast
   Regional Conference on - ACM-SE 47}, \bibinfo{publisher}{ACM Press},
   \bibinfo{address}{New York, New York, USA}, \bibinfo{year}{2009},
-  p.~\bibinfo{pages}{1}. \URLprefix
-  \url{http://dl.acm.org/citation.cfm?id=1566445.1566531}.
-  \DOIprefix\doi{10.1145/1566445.1566531}.
+  p.~\bibinfo{pages}{1}. \DOIprefix\doi{10.1145/1566445.1566531}.
 %Type = Inproceedings
 \bibitem[{Maki-Asiala and Matinlassi(2006)}]{Maki-Asiala2006}
 \bibinfo{author}{P.~Maki-Asiala}, \bibinfo{author}{M.~Matinlassi},
@@ -135,8 +133,7 @@
   Integrator Point of View}},
 \newblock in: \bibinfo{booktitle}{30th Annual International Computer Software
   and Applications Conference (COMPSAC'06)}, \bibinfo{publisher}{IEEE},
-  \bibinfo{year}{2006}, pp. \bibinfo{pages}{189--194}. \URLprefix
-  \url{http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=4020166}.
+  \bibinfo{year}{2006}, pp. \bibinfo{pages}{189--194}.
   \DOIprefix\doi{10.1109/COMPSAC.2006.153}.
 %Type = Misc
 \bibitem[{Immonen and Palviainen(2007)}]{Immonen2007}
@@ -156,8 +153,7 @@
 \bibinfo{author}{K.~Stewart}, \bibinfo{author}{A.~Ammeter},
   \bibinfo{author}{L.~Maruping}, \bibinfo{title}{{A Preliminary Analysis of the
   Influences of Licensing and Organizational Sponsorship on Success in Open
-  Source Projects}}, \bibinfo{year}{2005}. \URLprefix
-  \url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1385641}.
+  Source Projects}}, \bibinfo{year}{2005}.
   \DOIprefix\doi{10.1109/HICSS.2005.38}.
 %Type = Article
 \bibitem[{Wu et~al.(2007)Wu, Gerlach, and Young}]{Wu2007}
@@ -189,9 +185,7 @@
 \newblock in: \bibinfo{editor}{Tbd} (Ed.), \bibinfo{booktitle}{Information
   Systems Journal}, volume \bibinfo{volume}{Paper 4},
   \bibinfo{publisher}{Citeseer}, \bibinfo{year}{2003}, pp.
-  \bibinfo{pages}{327--340}. \URLprefix
-  \url{http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.10.6110\&amp;rep=rep1\&amp;type=pdf}.
-  \DOIprefix\doi{10.1.1.10.6110}.
+  \bibinfo{pages}{327--340}. \DOIprefix\doi{10.1.1.10.6110}.
 %Type = Inproceedings
 \bibitem[{Parizi and Ghani(2010)}]{Parizi2010}
 \bibinfo{author}{R.~M. Parizi}, \bibinfo{author}{A.~A.~A. Ghani},
@@ -201,9 +195,7 @@
 \newblock in: \bibinfo{booktitle}{2010 Eighth ACIS International Conference on
   Software Engineering Research, Management and Applications},
   \bibinfo{publisher}{IEEE}, \bibinfo{year}{2010}, pp.
-  \bibinfo{pages}{329--334}. \URLprefix
-  \url{http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=5489075}.
-  \DOIprefix\doi{10.1109/SERA.2010.48}.
+  \bibinfo{pages}{329--334}. \DOIprefix\doi{10.1109/SERA.2010.48}.
 %Type = Article
 \bibitem[{Samoladas et~al.(2008)Samoladas, Gousios, Spinellis, and
   Stamelos}]{Samoladas2008}
@@ -218,9 +210,7 @@
 \bibinfo{author}{M.~R.~M. Torres}, \bibinfo{author}{S.~L. Toral},
   \bibinfo{author}{M.~Perales}, \bibinfo{author}{F.~Barrero},
   \bibinfo{title}{{Analysis of the Core Team Role in Open Source Communities}},
-  \bibinfo{year}{2011}. \URLprefix
-  \url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5988976}.
-  \DOIprefix\doi{10.1109/CISIS.2011.25}.
+  \bibinfo{year}{2011}. \DOIprefix\doi{10.1109/CISIS.2011.25}.
 %Type = Article
 \bibitem[{{Van De Weerd} and Brinkkemper(2008)}]{VanDeWeerd2008}
 \bibinfo{author}{I.~{Van De Weerd}}, \bibinfo{author}{S.~Brinkkemper},
